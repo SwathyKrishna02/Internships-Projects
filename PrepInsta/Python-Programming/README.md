@@ -26,6 +26,7 @@ This 2-month internship provided a practical, project-based learning experience 
 - 🎬 **Netflix UI Clone** *(Final Project)* – A simple static UI clone representing the Netflix landing page, showcasing beginner-level front-end skills using Python tools
 
 All projects were implemented independently, with weekly classes to introduce concepts and doubt-clearing sessions as needed.
+
 ---
 
 ## 🔗 Project Links:
