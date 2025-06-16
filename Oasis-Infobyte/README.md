@@ -1,11 +1,11 @@
-# Oasis InfoByte – Data Science Internship
+# Oasis Infobyte – Data Science Internship
 
 **Duration**: 1 Month  
 **Internship Type**: Project-Based  
 **Role**: Data Science Intern  
 
 ## 📌 Overview
-During my internship at Oasis InfoByte, I worked on three practical projects involving machine learning and data analysis. These projects strengthened my skills in model building, classification, regression, and insight generation using Python.
+During my internship at Oasis Infobyte, I worked on three practical projects involving machine learning and data analysis. These projects strengthened my skills in model building, classification, regression, and insight generation using Python.
 
 ## 🛠️ Tools & Technologies:
 - Python, Pandas, NumPy
