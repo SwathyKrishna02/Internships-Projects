@@ -1,4 +1,4 @@
-# ![image](https://github.com/SwathyKrishna02/PrepInsta-Winter-Internship/assets/85447723/3b3943a6-c009-48a4-9c66-bd6bc82d47b7) PrepInsta Python Programming Internship 
+# PrepInsta Python Programming Internship 
 
 **Duration**: March 2024 – May 2024  
 **Mode**: 1-day class + project-based learning  
