@@ -5,7 +5,7 @@
 **Type**: Project-Based Internship  
 
 ## 📌 Overview
-As part of my one-month data science internship at Cognorize, I worked on key machine learning and forecasting projects. Each project aimed to develop hands-on experience in classification, anomaly detection, and time series prediction.
+As part of my one-month data science internship at CognoRise, I worked on key machine learning and forecasting projects. Each project aimed to develop hands-on experience in classification, anomaly detection, and time series prediction.
 
 ## 🛠️ Tools & Technologies:
 - Python, Pandas, NumPy, Scikit-learn
