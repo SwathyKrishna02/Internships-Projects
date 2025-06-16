@@ -1,4 +1,4 @@
-# ![image](https://github.com/SwathyKrishna02/PrepInsta-Winter-Internship/assets/85447723/3b3943a6-c009-48a4-9c66-bd6bc82d47b7) PrepInsta Winter Internship (Data Analyst Role)
+# PrepInsta Winter Internship (Data Analyst Role)
 
 **Duration**: December 2023 – February 2024  
 **Format**: Weekly 1-day class + Project-based learning  
