@@ -1,6 +1,6 @@
 # 📁 Internship Projects Portfolio
 
-Welcome to my **Internship Projects** folder! This repository showcases a curated collection of projects I completed during multiple hands-on data science and Python programming internships from **December 2023 to May 2024**.
+Welcome to my **Internship Projects** folder! This repository showcases a curated collection of projects I completed during multiple hands-on data science and Python programming internships from **December 2023 to December 2024**.
 
 Each project reflects my learning journey, practical experience, and growth in the field of **Data Analysis, Machine Learning, Data Visualization, Web Scraping, and Python Development**.
 
@@ -53,6 +53,8 @@ Each internship has its own folder containing:
 - Source code (`.ipynb`, `.py`)
 - Visual outputs/screenshots (if applicable)
 - Brief explanation or `README.md` in the subfolder
+
+> 📝 These projects are organized to reflect a full **learning-to-execution pipeline** in data science.
 
 Feel free to explore each one to see how I approached real-world data science tasks.
 
